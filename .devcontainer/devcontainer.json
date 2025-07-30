@@ -16,6 +16,13 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker"
 			]
+		},
+		"jetbrains": {
+			"plugins": [
+				"org.intellij.plugins.hcl",
+				"com.github.copilot",
+				"some.awesome"
+			]
 		}
 	},
 
